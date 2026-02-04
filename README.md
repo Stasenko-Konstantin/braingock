@@ -1,6 +1,5 @@
 # braingock
 
-i dont know why i did that <br>
 thanks [Nim - How I Start](https://howistart.org/posts/nim/1/)
 
 ### run
